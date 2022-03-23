@@ -38,7 +38,7 @@ class EBookReader
     }
     if (zustand.equals("buch2"))
     {
-      buch2.anzeigen(60,60,280,480);
+      buch2.anzeigen(50,50,300,500);
     }
     fill(255);
     rect(255,500,80,30);
